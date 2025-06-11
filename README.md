@@ -15,8 +15,12 @@ This project is about creating a recipe card which is linked with different webp
     * Source: https://www.allrecipes.com/recipe/236502/inside-out-grilled-cheese-sandwich/
 * **Image 2: [Bowl of Basmati Rice]**
     * Source: https://www.allrecipes.com/recipe/72349/indian-style-basmati-rice/
+* **Image 3: [Delicious Closeup of Chicken Curry]**
+    * Source: https://www.allrecipes.com/recipe/212721/indian-chicken-curry-murgh-kari/
 ### Data
 * **Grilled Sandwich Page: Description, Ingredients, Steps**
     * Source: https://www.allrecipes.com/recipe/236502/inside-out-grilled-cheese-sandwich/
 * **Basmati Rice Page: Description, Ingredients, Steps**
     * Source: https://www.allrecipes.com/recipe/72349/indian-style-basmati-rice/
+* **Indian Chicken Curry (Murgh Kari): Description, Ingredients, Steps**
+    * Source: https://www.allrecipes.com/recipe/212721/indian-chicken-curry-murgh-kari/
